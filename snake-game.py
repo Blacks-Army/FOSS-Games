@@ -1,6 +1,5 @@
 ## This is a snake game by IT SOURCECODE
 
-
 import math
 import random
 import pygame
